@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This repository contains the source code for my portfolio, showcasing my skills, education, experience, projects, and more.
 
-For live Preview Open this link-subhankar.vercel.app 
+For live Preview serch this search this - subhankar.vercel.app 
 ## Table of Contents
 - [About](#about)
 - [Education](#education)
